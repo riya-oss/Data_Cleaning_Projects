@@ -3,7 +3,7 @@
   A clean dataset is necessary to produce sensible results. Even if you want to build a model on a dataset, inspecting and cleaning your data can improve your results exponentially. Feeding a model with unnecessary or erroneous data will reduce your model accuracy. A cleaner dataset will give you a better score than any fancy model. A clean dataset will also make it easier for others in your organization to work on it in the future.a clean dataset is necessary to produce sensible results. Even if you want to build a model on a dataset, inspecting and cleaning your data can improve your results exponentially. Feeding a model with unnecessary or erroneous data will reduce your model accuracy. A cleaner dataset will give you a better score than any fancy model. A clean dataset will also make it easier for others in your organization to work on it in the future. a clean dataset is necessary to produce sensible results. Even if you want to build a model on a dataset, inspecting and cleaning your data can improve your results exponentially. 
   Feeding a model with unnecessary or erroneous data will reduce your model accuracy. A cleaner dataset will give you a better score than any fancy model. A clean dataset will also make it easier for others in your organization to work on it in the future.
   
- ## How to you Clean Data???
+ ## How to Clean Data???
     * Step 1: Remove duplicate or irrelevant observations
     * Step 2: Fix structural errors
     * Step 3: Filter unwanted outliers
