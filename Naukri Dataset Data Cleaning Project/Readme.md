@@ -10,7 +10,7 @@
     * Step 4: Handle missing data
    
 # The Dataset
-   The dataset to be used is a CSV file named [naukri.csv](https://drive.google.com/file/d/1Rya7OjphCjFfH-NQhA-uoHiLaDmoeOVG/view?usp=sharing) which contains data on details of various products in the Mart. It contains the following columns:
+   The dataset to be used is a CSV file named [naukri.csv](https://drive.google.com/file/d/1Rya7OjphCjFfH-NQhA-uoHiLaDmoeOVG/view?usp=sharing) which contains data on details of    various candidates who have appllied for the job postings and various companies which have posted their job vancancies. It contains the following columns:
    
    * company	
    * education	
