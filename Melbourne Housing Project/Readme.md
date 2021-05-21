@@ -7,7 +7,7 @@
 ## The Dataset
  
   The dataset to be used is a CSV file named [melbourne.csv](https://drive.google.com/file/d/13Eo_GmCjyItXNOMhSTTE7Syz0B2AC8WZ/view?usp=sharing), 
-  which contains data on airbnb listings in the state of New York. It contains the following columns:
+  which contains data of varipus houses their locations, prices, etc in the city of Melbourne. It contains the following columns:
   
   * Suburbs
   * Address
